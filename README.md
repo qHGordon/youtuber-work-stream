@@ -3,12 +3,11 @@
 ## Step 1: Set up the Project Structure
 Create a directory structure like this:
 media_downloader/
-│
-├── app.py            # Flask backend
+├── app.py              # Flask backend
 ├── static/
-│   └── styles.css    # Your CSS for the website (optional)
+│   └── styles.css      # Your CSS for the website (optional)
 └── templates/
-    └── index.html    # Frontend (UI)
+    └── index.html      # Frontend (UI)
 
 ## Step 2: Build the Frontend (HTML and JS)
 Place the index.html file in the templates folder. 
